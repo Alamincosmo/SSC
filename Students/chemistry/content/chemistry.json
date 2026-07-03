@@ -423,17 +423,6 @@
       "explainIfWrong": "মোট ১১৮টি মৌল। এর মধ্যে ৯৪টি প্রকৃতিতে পাওয়া যায়, বাকিগুলো ল্যাবে তৈরি! এক-এক-আট মনে রাখো। 🔢"
     },
     {
-      "id": "q3-c3",
-      "type": "text_input",
-      "question": "লোহার রাসায়নিক চিহ্ন কী? (ইংরেজিতে লেখো)",
-      "targetAnswer": "Fe",
-      "marksIfCorrect": 3,
-      "penaltyIfWrong": -1,
-      "timeLimitSec": 40,
-      "hints": ["ল্যাটিন শব্দ 'Ferrum' থেকে এসেছে। দুই অক্ষরের।"],
-      "explainIfWrong": "লোহার চিহ্ন Fe — ল্যাটিন 'Ferrum' থেকে। Fe = Ferrum = লোহা! 🏷️"
-    },
-    {
       "id": "q4-c3",
       "type": "mcq",
       "question": "পানি (H₂O) কি মৌলিক পদার্থ — কেন বা কেন নয়?",
